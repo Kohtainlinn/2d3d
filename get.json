@@ -1,3 +1,1 @@
-import data from 'https://luke.2dboss.com/api/luke/twod-result-live'
-
-const latestRun = data.filter((item) => item.type === 'Run')[0]
+hhccbhffbhccb
